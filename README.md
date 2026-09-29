@@ -1,6 +1,6 @@
 # unmute-app
 Speaking confidence app built with MIT App Inventor
-Unmute helps you to speak more confidently and make you a better student at either school or collage.
+Unmute helps you to speak more confidently and make you a better student at either school or university.
 This is an app with features such as a solo room, a classroom feeling, cold call, spotlight and also a debate with AI. Additionally you can track your progress and complete assignments to receive XP.
 Technologies used: MIT App Inventor
 This is for people either in Middle School, High School, Collage or even later in life.
